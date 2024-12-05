@@ -1,0 +1,9 @@
+{
+  "name": "nx-test-todo-app-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/nx-test-todo-app-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["nx-test-todo-app"],
+  "// targets": "to see all targets run: nx show project nx-test-todo-app-e2e --web",
+  "targets": {}
+}
