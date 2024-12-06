@@ -1,3 +1,4 @@
+import {TodoList} from '@nx-test-todo-app/todo-list';
 export default function Index() {
   /*
    * Replace the elements below with your own.
